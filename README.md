@@ -1,4 +1,4 @@
-![image](https://github.com/tomershalev9/tomershalev9/assets/119437797/539504b4-7742-4caa-aa17-079e537b45f2)<h1 align="center">Hi 👋, I'm Tomer Shalev</h1>
+<h1 align="center">Hi 👋, I'm Tomer Shalev</h1>
 
 **DevOps Engineer**
 

@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Tomer Shlaev
 ###
+
 <p align="left">Designing and
 implementing automated CI/CD pipelines,
 facilitating seamless code integration and
 deployment🚀</p>
 
-###
+
 
 <h2 align="left">About me</h2>
 

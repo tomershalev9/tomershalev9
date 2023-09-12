@@ -4,7 +4,7 @@
 <p align="left">Designing and
 implementing automated CI/CD pipelines,
 facilitating seamless code integration and
-deployment🚀</p>
+deployment♾</p>
 
 
 

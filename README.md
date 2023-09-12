@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tomer Shlaev
-### DevOps Engineer
+**DevOps Engineer**
 
 <p align="left">Designing and
 implementing automated CI/CD pipelines,

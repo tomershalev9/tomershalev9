@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tomer Shlaev
+<h1 align="center">Hi 👋, I'm Tomer Shalev</h1>
 **DevOps Engineer**
 
 <p align="left">Designing and
